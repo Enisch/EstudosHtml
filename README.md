@@ -23,4 +23,4 @@ Lembrete utilize o source &ltsrc&gt para introduzir o audio.</dd>
 <dd> Exemplo de como criar 'download' de música ou imagens etc...<a style="background-color: darkred; color: antiquewhite;"
         href="Videos/Last Surprise (Lofi Remix) - You'll Never See It Coming (320).mp3" download="audio">Download música.</a></p></dd>
 </dl>
-<img src="Favicon/Sem título.ico" alt="icone Phantom Thieves logo.">
+<img src="Favicon/Sem título.ico" alt="icone Phantom Thieves logo." type="image/x-icon">
