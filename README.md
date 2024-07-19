@@ -24,3 +24,5 @@ Lembrete utilize o source &ltsrc&gt para introduzir o audio.</dd>
         href="Day4/Videos/Last Surprise (Lofi Remix) - You'll Never See It Coming (320).mp3" download="audio">Download música.</a></p></dd>
 </dl>
 <img src="Day4/Favicon/Sem título.ico" alt="icone Phantom Thieves logo." type="image/x-icon">
+
+<h5>Symbols: ❌ ✔ 📜 🎯 ◉ </h5>
