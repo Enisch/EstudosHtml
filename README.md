@@ -20,10 +20,13 @@ Tags <ins>aprendidas</ins>:
 <dd> &ltaudio&gt tem algumas configurações interessantes, entre elas: loop, controls e autoplay.<br>
 Lembrete utilize o source &ltsrc&gt para introduzir o audio.</dd>
 <dd> &ltpicture&gt é uma espécie de 'array' de imagens. Atente-se a sua construção no exercício do day 4.</dd>
-<dd> Exemplo de como criar 'download' de música ou imagens etc...<a style="background-color: darkred; color: antiquewhite;"
-        href="Videos/Last Surprise (Lofi Remix) - You'll Never See It Coming (320).mp3" download="audio">Download música.</a></p></dd>
+<dd> Exemplo de como criar 'download' de música ou imagens etc...<br><a style="background-color: darkred; color: antiquewhite;"
+        href="Day4/Videos/Last Surprise (Lofi Remix) - You'll Never See It Coming (320).mp3" download="audio">Download música.</a></p></dd>
 </dl>
 
 <h3>Day5</h3>
 <p style="background-color: darkred; color: antiquewhite;">🎯Objetivo inserir css usando o método inline, interno(local) e externo.</p>
 <img src="Favicon/Sem título.ico" alt="icone Phantom Thieves logo." type="image/x-icon">
+<img src="Day4/Favicon/Sem título.ico" alt="icone Phantom Thieves logo." type="image/x-icon">
+
+<h5>Symbols: ❌ ✔ 📜 🎯 ◉ </h5>
