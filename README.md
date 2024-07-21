@@ -23,4 +23,7 @@ Lembrete utilize o source &ltsrc&gt para introduzir o audio.</dd>
 <dd> Exemplo de como criar 'download' de música ou imagens etc...<a style="background-color: darkred; color: antiquewhite;"
         href="Videos/Last Surprise (Lofi Remix) - You'll Never See It Coming (320).mp3" download="audio">Download música.</a></p></dd>
 </dl>
+
+<h3>Day5</h3>
+<p style="background-color: darkred; color: antiquewhite;">🎯Objetivo inserir css usando o método inline, interno(local) e externo.</p>
 <img src="Favicon/Sem título.ico" alt="icone Phantom Thieves logo." type="image/x-icon">
