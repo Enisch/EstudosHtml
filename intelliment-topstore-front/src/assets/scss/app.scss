@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+@import'primeicons/primeicons.css';
+@import '../../../node_modules/primeflex/primeflex.css';
+@import 'primevue.scss';
+
+
+
+ h1, h2, h3,  p, ul, li, figure {
+  margin: 0;
+  padding: 0;
+}
+
+
+html,
+body,
+#app {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins';
+
+}
+*,
+button,
+input {
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+}
+
+:root {
+  --p1: #ff0068;
+  --p2: #8905c9;
+  --p3: #263645;
+
+  --s1: #f1f1ff;
+  --s2: #c7caff;
+  --s3: #a3a8e9;
+
+  --t1: #49585f;
+  --t2: #617984;
+
+  --cc-bg: #fff;
+  --cc-menu-bg: #263645;
+  --cc-menu-text: #99b0bb;
+  --cc-menu-subtext: #52636b;
+  --cc-title-menu: #a9bbc4;
+}
+
+
+
+
